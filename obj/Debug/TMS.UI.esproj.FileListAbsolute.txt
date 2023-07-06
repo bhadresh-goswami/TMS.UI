@@ -1,0 +1,2 @@
+C:\Bhadresh's Work\dot Net Core - Training\TimeSheetManagementSystem\TMS.UI\obj\Debug\TMS.UI.esproj.SuggestedBindingRedirects.cache
+C:\Bhadresh's Work\dot Net Core - Training\TimeSheetManagementSystem\TMS.UI\obj\Debug\TMS.UI.esproj.CoreCompileInputs.cache
